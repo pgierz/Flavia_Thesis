@@ -2,5 +2,7 @@
 \babel@toc {english}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Sampling data including cruise, region, station, sampling date and local time (h:min), season, latitude, longitude, sampling gear, number of individuals with sex, and sample code of the analysed individuals\relax }}{15}{table.caption.31}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Number of differentially expressed transcripts (DETs) identified for each tested pairwise comparison in \texttt {edgeR} including the number of upregulated DETs in each sample\relax }}{19}{table.caption.35}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
