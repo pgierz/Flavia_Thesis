@@ -1,0 +1,2003 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{akaike_likelihood_1981}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AH}{%
+         family={Akaike},
+         familyi={A\bibinitperiod},
+         given={Hirotugu},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AH1}
+    \strng{fullhash}{AH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1016/0304-4076(81)90071-3
+    \endverb
+    \field{issn}{0304-4076}
+    \field{number}{1}
+    \field{pages}{3\bibrangedash 14}
+    \field{title}{Likelihood of a model and information criteria}
+    \field{volume}{16}
+    \field{journaltitle}{Journal of Econometrics}
+    \field{month}{05}
+    \field{year}{1981}
+  \endentry
+
+  \entry{atkinson_feeding_2002}{article}{}
+    \name{author}{6}{}{%
+      {{hash=AA}{%
+         family={Atkinson},
+         familyi={A\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Bettina},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=BU}{%
+         family={Bathmann},
+         familyi={B\bibinitperiod},
+         given={Ulrich},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Stübing},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HW}{%
+         family={Hagen},
+         familyi={H\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Schmidt},
+         familyi={S\bibinitperiod},
+         given={Katrin},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AA+1}
+    \strng{fullhash}{AAMBBUSDHWSK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4}
+    \field{pages}{953\bibrangedash 966}
+    \field{title}{Feeding and energy budget of {Antarctic} krill {Euphausia}
+  superba at the onset of winter-{II}. {Juveniles} and adults}
+    \field{volume}{47}
+    \field{journaltitle}{Limnology and Oceanography}
+    \field{year}{2002}
+  \endentry
+
+  \entry{atkinson_natural_2006}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AA}{%
+         family={Atkinson},
+         familyi={A\bibinitperiod},
+         given={Angus},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SRS}{%
+         family={Shreeve},
+         familyi={S\bibinitperiod},
+         given={Rachael\bibnamedelima S.},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HAG}{%
+         family={Hirst},
+         familyi={H\bibinitperiod},
+         given={Andrew\bibnamedelima G.},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AASRSHAG1}
+    \strng{fullhash}{AASRSHAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{973\bibrangedash 987}
+    \field{title}{Natural growth rates in {Antarctic} krill ({Euphausia}
+  superba): {II}. {Predictive} models based on food, temperature, body length,
+  sex, and maturity stage}
+    \field{volume}{51}
+    \field{journaltitle}{Limnology and Oceanography}
+    \field{year}{2006}
+  \endentry
+
+  \entry{atkinson_long-term_2004}{article}{}
+    \name{author}{4}{}{%
+      {{hash=AA}{%
+         family={Atkinson},
+         familyi={A\bibinitperiod},
+         given={Angus},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SV}{%
+         family={Siegel},
+         familyi={S\bibinitperiod},
+         given={Volker},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Pakhomov},
+         familyi={P\bibinitperiod},
+         given={Evgeny},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Rothery},
+         familyi={R\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AA+2}
+    \strng{fullhash}{AASVPERP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1038/nature02950.1
+    \endverb
+    \field{number}{November}
+    \field{pages}{100\bibrangedash 103}
+    \field{title}{Long-term decline in krill stock and increase in salps within
+  the {Southern} {Ocean}}
+    \field{volume}{432}
+    \field{journaltitle}{Nature}
+    \field{year}{2004}
+  \endentry
+
+  \entry{boyce_evaluating_2002}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BMS}{%
+         family={Boyce},
+         familyi={B\bibinitperiod},
+         given={Mark\bibnamedelima S},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VPR}{%
+         family={Vernier},
+         familyi={V\bibinitperiod},
+         given={Pierre\bibnamedelima R},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=NSE}{%
+         family={Nielsen},
+         familyi={N\bibinitperiod},
+         given={Scott\bibnamedelima E},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SFKA}{%
+         family={Schmiegelow},
+         familyi={S\bibinitperiod},
+         given={Fiona K.\bibnamedelima A},
+         giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMS+1}
+    \strng{fullhash}{BMSVPRNSESFKA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1016/S0304-3800(02)00200-4
+    \endverb
+    \field{issn}{0304-3800}
+    \field{number}{2}
+    \field{pages}{281\bibrangedash 300}
+    \field{title}{Evaluating resource selection functions}
+    \field{volume}{157}
+    \field{journaltitle}{Ecological Modelling}
+    \field{month}{11}
+    \field{year}{2002}
+  \endentry
+
+  \entry{bradshaw_evolution_2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BWE}{%
+         family={Bradshaw},
+         familyi={B\bibinitperiod},
+         given={William\bibnamedelima E.},
+         giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HCM}{%
+         family={Holzapfel},
+         familyi={H\bibinitperiod},
+         given={Christina\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BWEHCM1}
+    \strng{fullhash}{BWEHCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1146/annurev.ecolsys.37.091305.110115
+    \endverb
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 25}
+    \field{title}{Evolution of {Animal} {Photoperiodism}}
+    \field{volume}{38}
+    \field{journaltitle}{Annual Review of Ecology, Evolution, and Systematics}
+    \field{year}{2007}
+  \endentry
+
+  \entry{brown_temperature_2010}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BM}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kawaguchi},
+         familyi={K\bibinitperiod},
+         given={So},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CSGGS}{%
+         family={Candy},
+         familyi={C\bibinitperiod},
+         given={Steven G. G.\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod
+  G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Virtue},
+         familyi={V\bibinitperiod},
+         given={Patti},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BM+1}
+    \strng{fullhash}{BMKSCSGGSVP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1016/j.dsr2.2009.10.016
+    \endverb
+    \field{issn}{09670645}
+    \field{number}{7-8}
+    \field{pages}{672\bibrangedash 682}
+    \field{title}{Temperature effects on the growth and maturation of
+  {Antarctic} krill ({Euphausia} superba)}
+    \field{volume}{57}
+    \field{journaltitle}{Deep Sea Research Part II: Topical Studies in
+  Oceanography}
+    \field{year}{2010}
+  \endentry
+
+  \entry{brown_flexible_2011}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BM}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kawaguchi},
+         familyi={K\bibinitperiod},
+         given={So},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={King},
+         familyi={K\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Virtue},
+         familyi={V\bibinitperiod},
+         given={Patti},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nicol},
+         familyi={N\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BM+1}
+    \strng{fullhash}{BMKSKRVPNS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1093/plankt/fbq123
+    \endverb
+    \field{issn}{0142-7873}
+    \field{number}{5}
+    \field{pages}{821\bibrangedash 826}
+    \field{title}{Flexible adaptation of the seasonal krill maturity cycle in
+  the laboratory}
+    \field{volume}{33}
+    \field{journaltitle}{Journal of Plankton Research}
+    \field{year}{2011}
+  \endentry
+
+  \entry{clarke_climate_2007}{article}{}
+    \name{author}{7}{}{%
+      {{hash=CA}{%
+         family={Clarke},
+         familyi={C\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MEJ}{%
+         family={Murphy},
+         familyi={M\bibinitperiod},
+         given={Eugene\bibnamedelima J.},
+         giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MMP}{%
+         family={Meredith},
+         familyi={M\bibinitperiod},
+         given={Michael\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=KJC}{%
+         family={King},
+         familyi={K\bibinitperiod},
+         given={John\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=PLS}{%
+         family={Peck},
+         familyi={P\bibinitperiod},
+         given={Lloyd\bibnamedelima S.},
+         giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BDK}{%
+         family={Barnes},
+         familyi={B\bibinitperiod},
+         given={David\bibnamedelima K.A},
+         giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SRC}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Raymond\bibnamedelima C.},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CA+1}
+    \strng{fullhash}{CAMEJMMPKJCPLSBDKSRC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1098/rstb.2006.1958
+    \endverb
+    \field{issn}{1471-2970}
+    \field{number}{1477}
+    \field{pages}{149\bibrangedash 166}
+    \field{title}{Climate change and the marine ecosystem of the western
+  {Antarctic} {Peninsula}}
+    \field{volume}{362}
+    \field{journaltitle}{Philosophical Transactions of the Royal Society B:
+  Biological Sciences}
+    \field{year}{2007}
+  \endentry
+
+  \entry{colegrave_using_2018}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CN}{%
+         family={Colegrave},
+         familyi={C\bibinitperiod},
+         given={Nick},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=RGD}{%
+         family={Ruxton},
+         familyi={R\bibinitperiod},
+         given={Graeme\bibnamedelima D.},
+         giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CNRGD1}
+    \strng{fullhash}{CNRGD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1016/j.tree.2017.10.007
+    \endverb
+    \field{issn}{0169-5347}
+    \field{number}{1}
+    \field{pages}{28\bibrangedash 35}
+    \field{title}{Using {Biological} {Insight} and {Pragmatism} {When}
+  {Thinking} about {Pseudoreplication}}
+    \field{volume}{33}
+    \field{journaltitle}{Trends in Ecology \& Evolution}
+    \field{month}{01}
+    \field{year}{2018}
+  \endentry
+
+  \entry{constable_modelling_nodate}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CAJ}{%
+         family={Constable},
+         familyi={C\bibinitperiod},
+         given={Andrew\bibnamedelima John},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kawaguchi},
+         familyi={K\bibinitperiod},
+         given={So},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CAJKS1}
+    \strng{fullhash}{CAJKS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1093/icesjms/fsx190
+    \endverb
+    \field{title}{Modelling growth and reproduction of {Antarctic} krill,
+  {Euphausia} superba, based on temperature, food and resource allocation
+  amongst life history functions}
+    \field{journaltitle}{ICES Journal of Marine Science}
+  \endentry
+
+  \entry{cumming_using_2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CGS}{%
+         family={Cumming},
+         familyi={C\bibinitperiod},
+         given={Graeme\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CGS1}
+    \strng{fullhash}{CGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1046/j.1365-2699.2000.00419.x
+    \endverb
+    \field{issn}{1365-2699}
+    \field{number}{2}
+    \field{pages}{425\bibrangedash 440}
+    \field{title}{Using habitat models to map diversity: pan-{African} species
+  richness of ticks ({Acari}: {Ixodida})}
+    \field{volume}{27}
+    \field{journaltitle}{Journal of Biogeography}
+    \field{month}{03}
+    \field{year}{2000}
+  \endentry
+
+  \entry{groeneveld_how_2015}{article}{}
+    \name{author}{6}{}{%
+      {{hash=GJ}{%
+         family={Groeneveld},
+         familyi={G\bibinitperiod},
+         given={Jürgen},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JK}{%
+         family={Johst},
+         familyi={J\bibinitperiod},
+         given={Karin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kawaguchi},
+         familyi={K\bibinitperiod},
+         given={So},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Bettina},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Teschke},
+         familyi={T\bibinitperiod},
+         given={Mathias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GV}{%
+         family={Grimm},
+         familyi={G\bibinitperiod},
+         given={Volker},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJ+1}
+    \strng{fullhash}{GJJKKSMBTMGV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1016/j.ecolmodel.2015.02.009
+    \endverb
+    \field{issn}{0304-3800}
+    \field{pages}{78\bibrangedash 86}
+    \field{title}{How biological clocks and changing environmental conditions
+  determine local population growth and species distribution in {Antarctic}
+  krill (\textit{{Euphausia} superba}): a conceptual model}
+    \field{volume}{303}
+    \field{journaltitle}{Ecological Modelling}
+    \field{month}{05}
+    \field{year}{2015}
+  \endentry
+
+  \entry{hagen_lipids_2000}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=HW}{%
+         family={Hagen},
+         familyi={H\bibinitperiod},
+         given={W},
+         giveni={W},
+      }}%
+    }
+    \name{editor}{5}{}{%
+      {{hash=HR}{%
+         family={Harris},
+         familyi={H\bibinitperiod},
+         given={RP},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Wiebe},
+         familyi={W\bibinitperiod},
+         given={PH},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lenz},
+         familyi={L\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+      {{hash=SH}{%
+         family={Skjoldal},
+         familyi={S\bibinitperiod},
+         given={HR},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Huntley},
+         familyi={H\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Academic Press}%
+    }
+    \strng{namehash}{HW1}
+    \strng{fullhash}{HW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{{ICES} {Zooplankton} {Methodology} {Manual}}
+    \field{pages}{113\bibrangedash 119}
+    \field{title}{Lipids}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2000}
+  \endentry
+
+  \entry{hagen_lipid_2001}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HW}{%
+         family={Hagen},
+         familyi={H\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kattner},
+         familyi={K\bibinitperiod},
+         given={Gerhard},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Terbrüggen},
+         familyi={T\bibinitperiod},
+         given={Anja},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VVES}{%
+         family={Van\bibnamedelima Vleet},
+         familyi={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+         given={E.\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HW+1}
+    \strng{fullhash}{HWKGTAVVES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{1}
+    \field{pages}{95\bibrangedash 104}
+    \field{title}{Lipid metabolism of the {Antarctic} krill {Euphausia} superba
+  and its ecological implications}
+    \field{volume}{139}
+    \field{journaltitle}{Marine Biology}
+    \field{year}{2001}
+  \endentry
+
+  \entry{hastie_generalized_1987}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HT}{%
+         family={Hastie},
+         familyi={H\bibinitperiod},
+         given={Trevor},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TR}{%
+         family={Tibshirani},
+         familyi={T\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HTTR1}
+    \strng{fullhash}{HTTR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1080/01621459.1987.10478440
+    \endverb
+    \field{issn}{0162-1459}
+    \field{number}{398}
+    \field{pages}{371\bibrangedash 386}
+    \field{title}{Generalized {Additive} {Models}: {Some} {Applications}}
+    \field{volume}{82}
+    \field{journaltitle}{Journal of the American Statistical Association}
+    \field{month}{06}
+    \field{year}{1987}
+  \endentry
+
+  \entry{hirano_antarctic_2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HY}{%
+         family={Hirano},
+         familyi={H\bibinitperiod},
+         given={Yasuo},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Matsuda},
+         familyi={M\bibinitperiod},
+         given={Tsuyoshi},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HYMT1}
+    \strng{fullhash}{HYMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1080/10236240310001623637
+    \endverb
+    \field{issn}{1023-6244}
+    \field{number}{4}
+    \field{pages}{249\bibrangedash 258}
+    \field{title}{Antarctic krill breeding facilities at port of nagoya public
+  aquarium}
+    \field{volume}{36}
+    \field{journaltitle}{Marine and Freshwater Behaviour and Physiology}
+    \field{year}{2003}
+  \endentry
+
+  \entry{huntley_elemental_1994}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HM}{%
+         family={Huntley},
+         familyi={H\bibinitperiod},
+         given={ME},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM1}
+    \strng{fullhash}{HM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.3354/meps107023
+    \endverb
+    \field{pages}{23\bibrangedash 40}
+    \field{title}{Elemental composition, metabolic activity and growih of
+  {Antarctic} krill {Euphausia} superba during winter}
+    \field{volume}{107}
+    \field{journaltitle}{Marine Ecology-progress Series - MAR ECOL-PROGR SER}
+    \field{year}{1994}
+  \endentry
+
+  \entry{hut_latitudinal_2013}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HRA}{%
+         family={Hut},
+         familyi={H\bibinitperiod},
+         given={R.\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Paolucci},
+         familyi={P\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Dor},
+         familyi={D\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KCP}{%
+         family={Kyriacou},
+         familyi={K\bibinitperiod},
+         given={C.\bibnamedelima P.},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Daan},
+         familyi={D\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HRA+1}
+    \strng{fullhash}{HRAPSDRKCPDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1098/rspb.2013.0433
+    \endverb
+    \field{issn}{0962-8452, 1471-2954}
+    \field{number}{1765}
+    \field{pages}{20130433\bibrangedash 20130433}
+    \field{title}{Latitudinal clines: an evolutionary view on biological
+  rhythms}
+    \field{volume}{280}
+    \field{journaltitle}{Proceedings of the Royal Society B: Biological
+  Sciences}
+    \field{month}{07}
+    \field{year}{2013}
+  \endentry
+
+  \entry{kawaguchi_learning_2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KS}{%
+         family={Kawaguchi},
+         familyi={K\bibinitperiod},
+         given={So},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nicol},
+         familyi={N\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KSNS1}
+    \strng{fullhash}{KSNS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1017/S0954102007000296
+    \endverb
+    \field{issn}{0954-1020, 1365-2079}
+    \field{number}{02}
+    \field{pages}{219}
+    \field{title}{Learning about {Antarctic} krill from the fishery}
+    \field{volume}{19}
+    \field{journaltitle}{Antarctic Science}
+    \field{month}{06}
+    \field{year}{2007}
+  \endentry
+
+  \entry{kawaguchi_experimental_2010}{article}{}
+    \name{author}{7}{}{%
+      {{hash=KS}{%
+         family={Kawaguchi},
+         familyi={K\bibinitperiod},
+         given={So},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={King},
+         familyi={K\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Meijers},
+         familyi={M\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=OJE}{%
+         family={Osborn},
+         familyi={O\bibinitperiod},
+         given={Jon\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SKM}{%
+         family={Swadling},
+         familyi={S\bibinitperiod},
+         given={Kerrie\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RDA}{%
+         family={Ritz},
+         familyi={R\bibinitperiod},
+         given={David\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nicol},
+         familyi={N\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KS+1}
+    \strng{fullhash}{KSKRMROJESKMRDANS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1016/j.dsr2.2009.10.017
+    \endverb
+    \field{issn}{0967-0645}
+    \field{number}{7-8}
+    \field{pages}{683\bibrangedash 692}
+    \field{title}{An experimental aquarium for observing the schooling
+  behaviour of {Antarctic} krill ({Euphausia} superba)}
+    \field{volume}{57}
+    \field{journaltitle}{Deep Sea Research Part II: Topical Studies in
+  Oceanography}
+    \field{year}{2010}
+  \endentry
+
+  \entry{king_krill_2003}{article}{}
+    \name{author}{4}{}{%
+      {{hash=KR}{%
+         family={King},
+         familyi={K\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nicol},
+         familyi={N\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Cramp},
+         familyi={C\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SKM}{%
+         family={Swadling},
+         familyi={S\bibinitperiod},
+         given={Kerrie\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KR+1}
+    \strng{fullhash}{KRNSCPSKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1080/10236240310001614457
+    \endverb
+    \field{issn}{1023-6244}
+    \field{number}{4}
+    \field{pages}{271\bibrangedash 283}
+    \field{title}{Krill maintenance and experimentation at the australian
+  antarctic division}
+    \field{volume}{36}
+    \field{journaltitle}{Marine and Freshwater Behaviour and Physiology}
+    \field{year}{2003}
+  \endentry
+
+  \entry{makarov_stages_1980}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MRR}{%
+         family={Makarov},
+         familyi={M\bibinitperiod},
+         given={R.\bibnamedelima R.},
+         giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=DCJ}{%
+         family={Denys},
+         familyi={D\bibinitperiod},
+         given={C.\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRRDCJ1}
+    \strng{fullhash}{MRRDCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{1\bibrangedash 13}
+    \field{title}{Stages of {Sexual} {Maturity} of {Euphausia} superba {DANA}}
+    \field{volume}{11}
+    \field{journaltitle}{BIOMASS Handbook}
+    \field{year}{1980}
+  \endentry
+
+  \entry{mazzotta_cry_2010}{article}{}
+    \name{author}{7}{}{%
+      {{hash=MGM}{%
+         family={Mazzotta},
+         familyi={M\bibinitperiod},
+         given={Gabriella\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=DPC}{%
+         family={De\bibnamedelima Pittà},
+         familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Cristiano},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Benna},
+         familyi={B\bibinitperiod},
+         given={Clara},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=TSCE}{%
+         family={Tosatto},
+         familyi={T\bibinitperiod},
+         given={Silvio C.\bibnamedelima E.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  E\bibinitperiod},
+      }}%
+      {{hash=LG}{%
+         family={Lanfranchi},
+         familyi={L\bibinitperiod},
+         given={Gerolamo},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Bertolucci},
+         familyi={B\bibinitperiod},
+         given={Cristiano},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Costa},
+         familyi={C\bibinitperiod},
+         given={Rodolfo},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MGM+1}
+    \strng{fullhash}{MGMDPCBCTSCELGBCCR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.3109/07420521003697494
+    \endverb
+    \field{number}{3}
+    \field{pages}{425\bibrangedash 45}
+    \field{title}{A cry from the krill.}
+    \field{volume}{27}
+    \field{journaltitle}{Chronobiology international}
+    \field{year}{2010}
+  \endentry
+
+  \entry{meuti_functional_2015}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MME}{%
+         family={Meuti},
+         familyi={M\bibinitperiod},
+         given={Megan\bibnamedelima E.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stone},
+         familyi={S\bibinitperiod},
+         given={Mary},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=IT}{%
+         family={Ikeno},
+         familyi={I\bibinitperiod},
+         given={Tomoko},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DDL}{%
+         family={Denlinger},
+         familyi={D\bibinitperiod},
+         given={David\bibnamedelima L.},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MME+1}
+    \strng{fullhash}{MMESMITDDL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{412\bibrangedash 422}
+    \field{title}{Functional circadian clock genes are essential for the
+  overwintering diapause of the {Northern} house mosquito, \textit{{Culex}
+  pipiens}}
+    \field{volume}{218}
+    \field{journaltitle}{The Journal of experimental biology}
+    \field{year}{2015}
+  \endentry
+
+  \entry{meyer_seasonal_2010}{article}{}
+    \name{author}{9}{}{%
+      {{hash=MB}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Bettina},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=AL}{%
+         family={Auerswald},
+         familyi={A\bibinitperiod},
+         given={Lutz},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SV}{%
+         family={Siegel},
+         familyi={S\bibinitperiod},
+         given={Volker},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Spahić},
+         familyi={S\bibinitperiod},
+         given={Susanne},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Pape},
+         familyi={P\bibinitperiod},
+         given={Carsten},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=FBA}{%
+         family={Fach},
+         familyi={F\bibinitperiod},
+         given={Bettina\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Teschke},
+         familyi={T\bibinitperiod},
+         given={Mathias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lopata},
+         familyi={L\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FV}{%
+         family={Fuentes},
+         familyi={F\bibinitperiod},
+         given={Veronica},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MB+1}
+    \strng{fullhash}{MBALSVSSPCFBATMLAFV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.3354/meps08371
+    \endverb
+    \field{pages}{1\bibrangedash 18}
+    \field{title}{Seasonal variation in body composition, metabolic activity,
+  feeding, and growth of adult krill {Euphausia} superba in the {Lazarev}
+  {Sea}}
+    \field{volume}{398}
+    \field{journaltitle}{Marine Ecology Progress Series}
+    \field{year}{2010}
+  \endentry
+
+  \entry{panigada_modelling_2008}{article}{}
+    \name{author}{6}{}{%
+      {{hash=PS}{%
+         family={Panigada},
+         familyi={P\bibinitperiod},
+         given={Simone},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zanardelli},
+         familyi={Z\bibinitperiod},
+         given={Margherita},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={MacKenzie},
+         familyi={M\bibinitperiod},
+         given={Monique},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DC}{%
+         family={Donovan},
+         familyi={D\bibinitperiod},
+         given={Carl},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mélin},
+         familyi={M\bibinitperiod},
+         given={Frédéric},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=HPS}{%
+         family={Hammond},
+         familyi={H\bibinitperiod},
+         given={Philip\bibnamedelima S.},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PS+1}
+    \strng{fullhash}{PSZMMMDCMFHPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{year}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1016/j.rse.2007.11.017
+    \endverb
+    \field{issn}{0034-4257}
+    \field{number}{8}
+    \field{pages}{3400\bibrangedash 3412}
+    \field{series}{Earth {Observations} for {Marine} and {Coastal}
+  {Biodiversity} and {Ecosystems} {Special} {Issue}}
+    \field{title}{Modelling habitat preferences for fin whales and striped
+  dolphins in the {Pelagos} {Sanctuary} ({Western} {Mediterranean} {Sea}) with
+  physiographic and remote sensing variables}
+    \field{volume}{112}
+    \field{journaltitle}{Remote Sensing of Environment}
+    \field{month}{08}
+    \field{year}{2008}
+  \endentry
+
+  \entry{quetin_behavioral_1991}{article}{}
+    \name{author}{2}{}{%
+      {{hash=QLB}{%
+         family={Quetin},
+         familyi={Q\bibinitperiod},
+         given={Langdon\bibnamedelima B.},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RRM}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Robin\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{QLBRRM1}
+    \strng{fullhash}{QLBRRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{year}
+    \field{sortinit}{Q}
+    \field{sortinithash}{Q}
+    \verb{doi}
+    \verb 10.1093/icb/31.1.49
+    \endverb
+    \field{number}{1}
+    \field{pages}{49\bibrangedash 63}
+    \field{title}{Behavioral and {Physiological} {Characteristics} of the
+  {Antarctic} {Krill}, {Euphausia} superba}
+    \field{volume}{31}
+    \field{journaltitle}{American Zoologist}
+    \field{year}{1991}
+  \endentry
+
+  \entry{quetin_environmental_2001}{article}{}
+    \name{author}{2}{}{%
+      {{hash=QLB}{%
+         family={Quetin},
+         familyi={Q\bibinitperiod},
+         given={Langdon\bibnamedelima B.},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RRM}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Robin\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{QLBRRM1}
+    \strng{fullhash}{QLBRRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{year}
+    \field{sortinit}{Q}
+    \field{sortinithash}{Q}
+    \verb{doi}
+    \verb 10.1093/icb/41.1.74
+    \endverb
+    \field{number}{1}
+    \field{pages}{74\bibrangedash 89}
+    \field{title}{Environmental {Variability} and {Its} {Impact} on the
+  {Reproductive} {Cycle} of {Antarctic} {Krill}}
+    \field{volume}{41}
+    \field{journaltitle}{American Zoologist}
+    \field{year}{2001}
+  \endentry
+
+  \entry{ross_growth_2000}{article}{}
+    \name{author}{5}{}{%
+      {{hash=RRM}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Robin\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=QLB}{%
+         family={Quetin},
+         familyi={Q\bibinitperiod},
+         given={Langdon\bibnamedelima B.},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BKS}{%
+         family={Baker},
+         familyi={B\bibinitperiod},
+         given={Karen\bibnamedelima S.},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Vernet},
+         familyi={V\bibinitperiod},
+         given={Maria},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SRC}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Raymond\bibnamedelima C.},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RRM+1}
+    \strng{fullhash}{RRMQLBBKSVMSRC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Growth limitation in young {Euphausia} superba under field
+  conditions}
+    \field{year}{2000}
+  \endentry
+
+  \entry{ross_trends_2014}{article}{}
+    \name{author}{7}{}{%
+      {{hash=RRM}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Robin\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=QLB}{%
+         family={Quetin},
+         familyi={Q\bibinitperiod},
+         given={Langdon\bibnamedelima B.},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Newberger},
+         familyi={N\bibinitperiod},
+         given={Timothy},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SCT}{%
+         family={Shaw},
+         familyi={S\bibinitperiod},
+         given={C.\bibnamedelima Tracy},
+         giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=JJL}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Janice\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=OSA}{%
+         family={Oakes},
+         familyi={O\bibinitperiod},
+         given={Stephanie\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MKJ}{%
+         family={Moore},
+         familyi={M\bibinitperiod},
+         given={Kelly\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RRM+1}
+    \strng{fullhash}{RRMQLBNTSCTJJLOSAMKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.3354/meps10965
+    \endverb
+    \field{pages}{11\bibrangedash 32}
+    \field{title}{Trends, cycles, interannual variability for three pelagic
+  species west of the {Antarctic} {Peninsula} 1993-2008}
+    \field{volume}{515}
+    \field{journaltitle}{Marine Ecology Progress Series}
+    \field{month}{11}
+    \field{year}{2014}
+  \endentry
+
+  \entry{ryabov_competition-induced_2017}{article}{}
+    \name{author}{5}{}{%
+      {{hash=RAB}{%
+         family={Ryabov},
+         familyi={R\bibinitperiod},
+         given={Alexey\bibnamedelima B.},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RAMd}{%
+         family={Roos},
+         familyi={R\bibinitperiod},
+         given={André M.\bibnamedelima de},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  d\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Bettina},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kawaguchi},
+         familyi={K\bibinitperiod},
+         given={So},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BB}{%
+         family={Blasius},
+         familyi={B\bibinitperiod},
+         given={Bernd},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RAB+1}
+    \strng{fullhash}{RABRAMdMBKSBB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.1038/s41559-017-0177
+    \endverb
+    \field{issn}{2397-334X}
+    \field{pages}{s41559\bibrangedash 017\bibrangedash 0177\bibrangedash 017}
+    \field{title}{Competition-induced starvation drives large-scale population
+  cycles in {Antarctic} krill}
+    \field{volume}{1}
+    \field{journaltitle}{Nature Ecology \& Evolution}
+    \field{month}{06}
+    \field{year}{2017}
+  \endentry
+
+  \entry{schmidt_feeding_2014}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SK}{%
+         family={Schmidt},
+         familyi={S\bibinitperiod},
+         given={Katrin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Atkinson},
+         familyi={A\bibinitperiod},
+         given={Angus},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PDW}{%
+         family={Pond},
+         familyi={P\bibinitperiod},
+         given={David\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=ILC}{%
+         family={Ireland},
+         familyi={I\bibinitperiod},
+         given={Louise\bibnamedelima C.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SK+1}
+    \strng{fullhash}{SKAAPDWILC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.4319/lo.2014.59.1.0017
+    \endverb
+    \field{issn}{00243590}
+    \field{number}{1}
+    \field{pages}{17\bibrangedash 36}
+    \field{title}{Feeding and overwintering of {Antarctic} krill across its
+  major habitats: {The} role of sea ice cover, water depth, and phytoplankton
+  abundance}
+    \field{volume}{59}
+    \field{journaltitle}{Limnology and Oceanography}
+    \field{year}{2014}
+  \endentry
+
+  \entry{steinberg_long-term_2015}{article}{}
+    \name{author}{10}{}{%
+      {{hash=SDK}{%
+         family={Steinberg},
+         familyi={S\bibinitperiod},
+         given={Deborah\bibnamedelima K.},
+         giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=RKE}{%
+         family={Ruck},
+         familyi={R\bibinitperiod},
+         given={Kate\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=GMR}{%
+         family={Gleiber},
+         familyi={G\bibinitperiod},
+         given={Miram\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=GLM}{%
+         family={Garzio},
+         familyi={G\bibinitperiod},
+         given={Lori\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CJS}{%
+         family={Cope},
+         familyi={C\bibinitperiod},
+         given={Joseph\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BKS}{%
+         family={Bernard},
+         familyi={B\bibinitperiod},
+         given={Kim\bibnamedelima S.},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SSE}{%
+         family={Stammerjohn},
+         familyi={S\bibinitperiod},
+         given={Sharon\bibnamedelima E.},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SOME}{%
+         family={Schofield},
+         familyi={S\bibinitperiod},
+         given={Oscar M.\bibnamedelima E.},
+         giveni={O\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  E\bibinitperiod},
+      }}%
+      {{hash=QLB}{%
+         family={Quetin},
+         familyi={Q\bibinitperiod},
+         given={Langdon\bibnamedelima B.},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RRM}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Robin\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SDK+1}
+    \strng{fullhash}{SDKRKEGMRGLMCJSBKSSSESOMEQLBRRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1016/j.dsr.2015.02.009
+    \endverb
+    \field{issn}{0967-0637}
+    \field{pages}{54\bibrangedash 70}
+    \field{title}{Long-term (1993–2013) changes in macrozooplankton off the
+  {Western} {Antarctic} {Peninsula}}
+    \field{volume}{101}
+    \field{journaltitle}{Deep Sea Research Part I: Oceanographic Research
+  Papers}
+    \field{month}{07}
+    \field{year}{2015}
+  \endentry
+
+  \entry{tarling_growth_2016}{article}{}
+    \name{author}{6}{}{%
+      {{hash=TGA}{%
+         family={Tarling},
+         familyi={T\bibinitperiod},
+         given={G.\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PH}{%
+         family={Peat},
+         familyi={P\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Fielding},
+         familyi={F\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Reiss},
+         familyi={R\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Atkinson},
+         familyi={A\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TGA+1}
+    \strng{fullhash}{TGAHSPHFSRCAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.3354/meps11634
+    \endverb
+    \field{pages}{61\bibrangedash 78}
+    \field{title}{Growth and shrinkage in {Antarctic} krill {Euphausia} superba
+  is sex-dependent}
+    \field{volume}{547}
+    \field{journaltitle}{Marine Ecology Progress Series}
+    \field{month}{04}
+    \field{year}{2016}
+  \endentry
+
+  \entry{rstudio_team_rstudio:_2016}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TR}{%
+         family={Team},
+         familyi={T\bibinitperiod},
+         given={RStudio},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TR1}
+    \strng{fullhash}{TR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{{RStudio}: integrated development for {R}}
+    \field{journaltitle}{RStudio, Inc., Boston, MA URL http://www. rstudio.
+  com}
+    \field{year}{2016}
+  \endentry
+
+  \entry{teschke_simulated_2007}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TM}{%
+         family={Teschke},
+         familyi={T\bibinitperiod},
+         given={Mathias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kawaguchi},
+         familyi={K\bibinitperiod},
+         given={So},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Bettina},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TMKSMB1}
+    \strng{fullhash}{TMKSMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{issn}{0024-3590}
+    \field{number}{3}
+    \field{pages}{1046\bibrangedash 1054}
+    \field{title}{Simulated light regimes affect feeding and metabolism of
+  {Antarctic} krill, {Euphausia} superba}
+    \field{volume}{52}
+    \field{journaltitle}{Limnology and Oceanography}
+    \field{year}{2007}
+  \endentry
+
+  \entry{teschke_effects_2008}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TM}{%
+         family={Teschke},
+         familyi={T\bibinitperiod},
+         given={Mathias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kawaguchi},
+         familyi={K\bibinitperiod},
+         given={So},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Bettina},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TMKSMB1}
+    \strng{fullhash}{TMKSMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.1007/s00227-008-0925-z
+    \endverb
+    \field{issn}{0025-3162}
+    \field{number}{2}
+    \field{pages}{315\bibrangedash 324}
+    \field{title}{Effects of simulated light regimes on maturity and body
+  composition of {Antarctic} krill, {Euphausia} superba}
+    \field{volume}{154}
+    \field{journaltitle}{Marine Biology}
+    \field{year}{2008}
+  \endentry
+
+  \entry{teschke_circadian_2011}{article}{}
+    \name{author}{5}{}{%
+      {{hash=TM}{%
+         family={Teschke},
+         familyi={T\bibinitperiod},
+         given={Mathias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Wendt},
+         familyi={W\bibinitperiod},
+         given={Sabrina},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kawaguchi},
+         familyi={K\bibinitperiod},
+         given={So},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kramer},
+         familyi={K\bibinitperiod},
+         given={Achim},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Bettina},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=NMN}{%
+         family={Nitabach},
+         familyi={N\bibinitperiod},
+         given={Michael\bibnamedelima N.},
+         giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TM+1}
+    \strng{fullhash}{TMWSKSKAMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.1371/journal.pone.0026090
+    \endverb
+    \field{number}{10}
+    \field{pages}{e26090\bibrangedash e26090}
+    \field{title}{A {Circadian} {Clock} in {Antarctic} {Krill}: {An}
+  {Endogenous} {Timing} {System} {Governs} {Metabolic} {Output} {Rhythms} in
+  the {Euphausid} {Species} \textit{{Euphausia} superba}}
+    \field{volume}{6}
+    \field{journaltitle}{PLoS ONE}
+    \field{year}{2011}
+  \endentry
+
+  \entry{thomas_thelycum_1987}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=TPG}{%
+         family={Thomas},
+         familyi={T\bibinitperiod},
+         given={P.\bibnamedelima G.},
+         giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=NGV}{%
+         family={Nash},
+         familyi={N\bibinitperiod},
+         given={G.\bibnamedelima V.},
+         giveni={G\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TPGNGV1}
+    \strng{fullhash}{TPGNGV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{booktitle}{Proc. {NIPR} {Symp}. {Polar} {Biol}}
+    \field{pages}{63\bibrangedash 71}
+    \field{title}{Thelycum and spermatophore structure in the {Antarctic}
+  euphausiids {Euphausia} superba and {E}. crystallorophias}
+    \field{volume}{1}
+    \field{year}{1987}
+  \endentry
+
+  \entry{tyukmaeva_adaptation_2011}{article}{}
+    \name{author}{5}{}{%
+      {{hash=TVI}{%
+         family={Tyukmaeva},
+         familyi={T\bibinitperiod},
+         given={Venera\bibnamedelima I.},
+         giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=STS}{%
+         family={Salminen},
+         familyi={S\bibinitperiod},
+         given={Tiina\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kankare},
+         familyi={K\bibinitperiod},
+         given={Maaria},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KKE}{%
+         family={Knott},
+         familyi={K\bibinitperiod},
+         given={K.\bibnamedelima Emily},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hoikkala},
+         familyi={H\bibinitperiod},
+         given={Anneli},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TVI+1}
+    \strng{fullhash}{TVISTSKMKKEHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.1002/ece3.14
+    \endverb
+    \field{issn}{2045-7758}
+    \field{number}{2}
+    \field{pages}{160\bibrangedash 168}
+    \field{title}{Adaptation to a seasonally varying environment: a strong
+  latitudinal cline in reproductive diapause combined with high gene flow in
+  \textit{{Drosophila} montana}}
+    \field{volume}{1}
+    \field{journaltitle}{Ecology and Evolution}
+    \field{month}{10}
+    \field{year}{2011}
+  \endentry
+
+  \entry{wood_generalized_2006}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WS}{%
+         family={Wood},
+         familyi={W\bibinitperiod},
+         given={SN},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WS1}
+    \strng{fullhash}{WS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Generalized {Additive} {Models}: {An} {Introduction} with
+  {R}. {Chapman} and {Hall}/{CRC}.}
+    \field{year}{2006}
+  \endentry
+\enddatalist
+\endinput

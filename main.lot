@@ -2,7 +2,13 @@
 \babel@toc {english}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces Sampling data including cruise, region, station, sampling date and local time (h:min), season, latitude, longitude, sampling gear, number of individuals with sex, and sample code of the analysed individuals\relax }}{15}{table.caption.31}
-\contentsline {table}{\numberline {2.2}{\ignorespaces Number of differentially expressed transcripts (DETs) identified for each tested pairwise comparison in \texttt {edgeR} including the number of upregulated DETs in each sample\relax }}{19}{table.caption.35}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Sampling data including cruise, region, station, sampling date and local time (h:min), season, latitude, longitude, sampling gear, number of individuals with sex, and sample code of the analysed individuals\relax }}{21}{table.caption.31}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Number of differentially expressed transcripts (DETs) identified for each tested pairwise comparison in edgeR including the number of upregulated DETs in each sample\relax }}{26}{table.caption.35}
+\contentsline {table}{\numberline {2.3}{\ignorespaces Selected members of differentially expressed protein-coding genes of the seasonal comparisons within the categories metabolism related to bioactive lipids, hormone metabolism, visual perception, receptor-related proteins, development, reproduction, dephosphorylation and transcriptional regulation\relax }}{28}{table.41}
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Sampling scheme of the long-term experiment. Carapace length, digestive gland length and maturity score from these krill (\textit {E. superba}) were used for analysis of growth, feeding and maturity in this study. For lipid content analysis a reduced dataset was analysed.\relax }}{58}{table.caption.57}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Model results, showing model statistics for parametric coefficients (estimates, standard errors (SD), \textit {z}- or \textit {t}-values and \textit {p}-values), a measure of explained variance of the model (Deviance or Adjusted $R^{2}$ (Adj. $R^{2}$)) and non-parametric terms where applicable (estimated degrees of freedom (edf), \textit {F}-statistic and \textit {p}-values). \relax }}{63}{table.caption.67}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces List of seasonally expressed genes with functional process that were found to be significantly rhythmic over a period of 12 months under the light regime 66$^{\circ }$S using RAIN (Publication 3).\relax }}{115}{table.caption.96}
 \addvspace {10\p@ }

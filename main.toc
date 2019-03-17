@@ -4,34 +4,66 @@
 \contentsline {chapter}{Abstract}{vii}{section*.2}
 \contentsline {chapter}{Acknowledgements}{ix}{section*.3}
 \contentsline {chapter}{\numberline {1}General Introduction}{1}{chapter.14}
-\contentsline {chapter}{\numberline {2}Publication I}{11}{chapter.25}
-\contentsline {section}{\numberline {2.1}Introduction}{12}{section.27}
-\contentsline {section}{\numberline {2.2}Methods}{14}{section.28}
-\contentsline {section}{\numberline {2.3}Results}{19}{section.38}
-\contentsline {subsection}{\numberline {2.3.1}Detailed analysis of categories including genes with putative seasonal regulatory functions}{21}{subsection.40}
-\contentsline {section}{\numberline {2.4}Discussion}{24}{section.42}
-\contentsline {section}{\numberline {2.5}Conclusion}{32}{section.47}
-\contentsline {section}{\numberline {2.6}Acknowledgements}{33}{section.48}
-\contentsline {section}{\numberline {2.7}References}{33}{section.49}
-\contentsline {chapter}{\numberline {3}Publication 2}{35}{chapter.50}
-\contentsline {section}{\numberline {3.1}Abstract}{36}{section.51}
-\contentsline {section}{\numberline {3.2}Introduction}{36}{section.52}
-\contentsline {section}{\numberline {3.3}Materials and Methods}{37}{section.53}
-\contentsline {subsection}{\numberline {3.3.1}Antarctic krill collection and maintenance prior to the experiments}{37}{subsection.54}
-\contentsline {subsection}{\numberline {3.3.2}Photoperiodic-controlled laboratory experiments}{38}{subsection.55}
-\contentsline {subsection}{\numberline {3.3.3}Growth analysis}{39}{subsection.56}
-\contentsline {subsection}{\numberline {3.3.4}Feeding Analysis}{41}{subsection.57}
-\contentsline {subsection}{\numberline {3.3.5}Lipid content analysis}{41}{subsection.58}
-\contentsline {subsection}{\numberline {3.3.6}Maturity Analysis}{41}{subsection.59}
-\contentsline {subsection}{\numberline {3.3.7}Data archiving}{43}{subsection.60}
-\contentsline {section}{\numberline {3.4}Results}{43}{section.61}
-\contentsline {subsection}{\numberline {3.4.1}Growth Analysis}{43}{subsection.62}
-\contentsline {subsection}{\numberline {3.4.2}Feeding}{43}{subsection.63}
-\contentsline {subsection}{\numberline {3.4.3}Lipids}{43}{subsection.64}
-\contentsline {subsection}{\numberline {3.4.4}Maturity}{44}{subsection.65}
-\contentsline {section}{\numberline {3.5}Discussion}{44}{section.66}
-\contentsline {section}{\numberline {3.6}Conclusion}{49}{section.67}
-\contentsline {section}{\numberline {3.7}Acknowledgements}{49}{section.68}
-\contentsline {section}{\numberline {3.8}References}{50}{section.69}
-\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{51}{appendix.70}
-\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{51}{section.71}
+\contentsline {section}{\numberline {1.1}\textit {Euphausia superba}, a key organism in the Southern Ocean}{1}{section.15}
+\contentsline {section}{\numberline {1.2}Pronounced Seasonal Cycles of \textit {E. superba} in the Field}{3}{section.17}
+\contentsline {section}{\numberline {1.3}Seasonal timing mechanisms in \textit {E. superba}}{5}{section.19}
+\contentsline {section}{\numberline {1.4}Research objectives}{9}{section.21}
+\contentsline {chapter}{\numberline {2}Publication I}{17}{chapter.25}
+\contentsline {section}{\numberline {2.1}Abstract}{17}{section.26}
+\contentsline {section}{\numberline {2.2}Introduction}{18}{section.27}
+\contentsline {section}{\numberline {2.3}Methods}{21}{section.29}
+\contentsline {subsection}{\numberline {2.3.1}Sample collection and experimental design}{21}{subsection.30}
+\contentsline {subsection}{\numberline {2.3.2}RNA extraction, library preparation and Illumina sequencing}{22}{subsection.32}
+\contentsline {subsection}{\numberline {2.3.3}Quality control and analysis of RNA-seq data}{22}{subsection.33}
+\contentsline {subsection}{\numberline {2.3.4}Data archiving}{26}{subsection.37}
+\contentsline {section}{\numberline {2.4}Results}{26}{section.38}
+\contentsline {subsection}{\numberline {2.4.1}Seasonal comparisons of gene expression in three different latitudinal regions}{26}{subsection.39}
+\contentsline {subsection}{\numberline {2.4.2}Detailed analysis of categories including genes with putative seasonal regulatory functions}{27}{subsection.40}
+\contentsline {subsection}{\numberline {2.4.3}Regional comparisons of gene expression within each season (summer and winter)}{33}{subsection.42}
+\contentsline {section}{\numberline {2.5}Discussion}{33}{section.43}
+\contentsline {subsection}{\numberline {2.5.1}Generalisations and methodological discussion}{33}{subsection.44}
+\contentsline {subsection}{\numberline {2.5.2}Potential influences on Antarctic krill's seasonal and regional gene expression}{36}{subsection.45}
+\contentsline {subsection}{\numberline {2.5.3}Target genes and their putative functions in Antarctic krill}{38}{subsection.46}
+\contentsline {subsection}{\numberline {2.5.4}Application to future studies of seasonal rhythms}{41}{subsection.47}
+\contentsline {section}{\numberline {2.6}Conclusion}{42}{section.48}
+\contentsline {section}{\numberline {2.7}Acknowledgements}{43}{section.49}
+\contentsline {chapter}{\numberline {3}Publication 2}{53}{chapter.50}
+\contentsline {section}{\numberline {3.1}Abstract}{53}{section.51}
+\contentsline {section}{\numberline {3.2}Introduction}{54}{section.52}
+\contentsline {section}{\numberline {3.3}Materials and Methods}{55}{section.53}
+\contentsline {subsection}{\numberline {3.3.1}Antarctic krill collection and maintenance prior to the experiments}{55}{subsection.54}
+\contentsline {subsection}{\numberline {3.3.2}Photoperiodic-controlled laboratory experiments}{56}{subsection.55}
+\contentsline {subsection}{\numberline {3.3.3}Growth analysis}{58}{subsection.58}
+\contentsline {subsection}{\numberline {3.3.4}Feeding Analysis}{60}{subsection.59}
+\contentsline {subsection}{\numberline {3.3.5}Lipid content analysis}{60}{subsection.60}
+\contentsline {subsection}{\numberline {3.3.6}Maturity Analysis}{61}{subsection.61}
+\contentsline {subsection}{\numberline {3.3.7}Data archiving}{62}{subsection.63}
+\contentsline {section}{\numberline {3.4}Results}{62}{section.64}
+\contentsline {subsection}{\numberline {3.4.1}Growth Analysis}{62}{subsection.65}
+\contentsline {subsection}{\numberline {3.4.2}Feeding}{62}{subsection.68}
+\contentsline {subsection}{\numberline {3.4.3}Lipids}{65}{subsection.71}
+\contentsline {subsection}{\numberline {3.4.4}Maturity}{67}{subsection.72}
+\contentsline {section}{\numberline {3.5}Discussion}{67}{section.75}
+\contentsline {section}{\numberline {3.6}Conclusion}{74}{section.76}
+\contentsline {section}{\numberline {3.7}Acknowledgements}{74}{section.77}
+\contentsline {chapter}{\numberline {4}Publication 3}{79}{chapter.78}
+\contentsline {section}{\numberline {4.1}Abstract}{79}{section.79}
+\contentsline {section}{\numberline {4.2}Introduction}{80}{section.80}
+\contentsline {section}{\numberline {4.3}Materials \& Methods}{82}{section.81}
+\contentsline {subsection}{\numberline {4.3.1}Long-term lab experiments at the Australian Antarctic Division}{82}{subsection.82}
+\contentsline {subsection}{\numberline {4.3.2}Sample processing and preparation of RNA and cDNA}{82}{subsection.83}
+\contentsline {subsection}{\numberline {4.3.3}TaqMan card design and measurement}{83}{subsection.84}
+\contentsline {subsection}{\numberline {4.3.4}Gene expression analysis}{84}{subsection.85}
+\contentsline {section}{\numberline {4.4}Results}{86}{section.86}
+\contentsline {subsection}{\numberline {4.4.1}Analysis of seasonal rhythmicity of gene expression}{86}{subsection.87}
+\contentsline {subsection}{\numberline {4.4.2}Analysis of monthly gene expression signatures using sPLS-DA}{87}{subsection.88}
+\contentsline {section}{\numberline {4.5}Discussion}{91}{section.89}
+\contentsline {section}{\numberline {4.6}Conclusion}{100}{section.90}
+\contentsline {section}{\numberline {4.7}Acknowledgements}{100}{section.91}
+\contentsline {chapter}{\numberline {5}General Discussion}{107}{chapter.92}
+\contentsline {section}{\numberline {5.1}The effect of latitudinal light regime on the seasonal cycle of \textit {E. superba}}{107}{section.93}
+\contentsline {section}{\numberline {5.2}Endogenous timing of seasonal processes in \textit {E. superba}}{111}{section.94}
+\contentsline {section}{\numberline {5.3}Insights into the regulatory pathways mediating the seasonality in \textit {E. superba}}{114}{section.95}
+\contentsline {section}{\numberline {5.4}Conclusions and outlook}{120}{section.97}
+\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{131}{appendix.98}
+\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{131}{section.99}

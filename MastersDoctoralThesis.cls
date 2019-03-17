@@ -219,7 +219,6 @@
 \NewDocumentCommand{\addresses}{m}{\newcommand{\addressname}{#1}}
 \NewDocumentCommand{\university}{m}{\newcommand{\univname}{#1}}
 \NewDocumentCommand{\department}{m}{\newcommand{\deptname}{#1}}
-\NewDocumentCommand{\group}{m}{\newcommand{\groupname}{#1}}
 \NewDocumentCommand{\faculty}{m}{\newcommand{\facname}{#1}}
 \NewDocumentCommand{\subject}{m}{\newcommand{\subjectname}{#1}}
 \NewDocumentCommand{\keywords}{m}{\newcommand{\keywordnames}{#1}}
@@ -279,11 +278,12 @@
 \providepairofpagestyles{thesisSimple}{%
 	\clearpairofpagestyles%
 	\automark[chapter]{chapter}
-	\ihead{\headmark}% Inner header
-	\ohead[\pagemark]{\pagemark}% Outer header
+        \ihead{}
+        \chead{\headmark}% Inner header
+	\ofoot[\pagemark]{\pagemark}% Outer header
 }
 \ifoot{}% Inner footer
-\ofoot{}% Outer footer
+\ohead{}% Outer footer
 \pagestyle{thesisSimple}
 \providepairofpagestyles[thesisSimple]{thesis}{%
 	\automark*[section]{}%
