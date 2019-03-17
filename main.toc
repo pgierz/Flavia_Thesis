@@ -51,19 +51,19 @@
 \contentsline {section}{\numberline {4.2}Introduction}{80}{section.80}
 \contentsline {section}{\numberline {4.3}Materials \& Methods}{82}{section.81}
 \contentsline {subsection}{\numberline {4.3.1}Long-term lab experiments at the Australian Antarctic Division}{82}{subsection.82}
-\contentsline {subsection}{\numberline {4.3.2}Sample processing and preparation of RNA and cDNA}{82}{subsection.83}
-\contentsline {subsection}{\numberline {4.3.3}TaqMan card design and measurement}{83}{subsection.84}
-\contentsline {subsection}{\numberline {4.3.4}Gene expression analysis}{84}{subsection.85}
-\contentsline {section}{\numberline {4.4}Results}{86}{section.86}
-\contentsline {subsection}{\numberline {4.4.1}Analysis of seasonal rhythmicity of gene expression}{86}{subsection.87}
-\contentsline {subsection}{\numberline {4.4.2}Analysis of monthly gene expression signatures using sPLS-DA}{87}{subsection.88}
-\contentsline {section}{\numberline {4.5}Discussion}{91}{section.89}
-\contentsline {section}{\numberline {4.6}Conclusion}{100}{section.90}
-\contentsline {section}{\numberline {4.7}Acknowledgements}{100}{section.91}
-\contentsline {chapter}{\numberline {5}General Discussion}{107}{chapter.92}
-\contentsline {section}{\numberline {5.1}The effect of latitudinal light regime on the seasonal cycle of \textit {E. superba}}{107}{section.93}
-\contentsline {section}{\numberline {5.2}Endogenous timing of seasonal processes in \textit {E. superba}}{111}{section.94}
-\contentsline {section}{\numberline {5.3}Insights into the regulatory pathways mediating the seasonality in \textit {E. superba}}{114}{section.95}
-\contentsline {section}{\numberline {5.4}Conclusions and outlook}{120}{section.97}
-\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{131}{appendix.98}
-\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{131}{section.99}
+\contentsline {subsection}{\numberline {4.3.2}Sample processing and preparation of RNA and cDNA}{83}{subsection.84}
+\contentsline {subsection}{\numberline {4.3.3}TaqMan card design and measurement}{84}{subsection.85}
+\contentsline {subsection}{\numberline {4.3.4}Gene expression analysis}{84}{subsection.86}
+\contentsline {section}{\numberline {4.4}Results}{86}{section.88}
+\contentsline {subsection}{\numberline {4.4.1}Analysis of seasonal rhythmicity of gene expression}{86}{subsection.89}
+\contentsline {subsection}{\numberline {4.4.2}Analysis of monthly gene expression signatures using sPLS-DA}{88}{subsection.91}
+\contentsline {section}{\numberline {4.5}Discussion}{97}{section.96}
+\contentsline {section}{\numberline {4.6}Conclusion}{105}{section.97}
+\contentsline {section}{\numberline {4.7}Acknowledgements}{106}{section.98}
+\contentsline {chapter}{\numberline {5}General Discussion}{113}{chapter.99}
+\contentsline {section}{\numberline {5.1}The effect of latitudinal light regime on the seasonal cycle of \textit {E. superba}}{113}{section.100}
+\contentsline {section}{\numberline {5.2}Endogenous timing of seasonal processes in \textit {E. superba}}{117}{section.101}
+\contentsline {section}{\numberline {5.3}Insights into the regulatory pathways mediating the seasonality in \textit {E. superba}}{120}{section.102}
+\contentsline {section}{\numberline {5.4}Conclusions and outlook}{126}{section.104}
+\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{137}{appendix.105}
+\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{137}{section.106}

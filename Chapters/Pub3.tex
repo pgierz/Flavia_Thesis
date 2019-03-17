@@ -142,9 +142,22 @@ to the Alfred-Wegener-Institute, Bremerhaven, for molecular analysis and stored
 at \SI{-80}{\celsius}. Overall 126 individuals from three tanks/treatments
 (52$^{\circ}$S, 66$^{\circ}$S, DD) were analysed including seven time points
 per treatment (April 2015 to April 2016) with six biological replicates per
-time point (Table I). 
+time point (Table \ref{pub3_table1}). 
 
-%%% TODO Table I
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+\begin{table}[]
+\caption{Sampling scheme showing the number of investigated Antarctic krill
+samples per treatment and month.}
+\label{pub3_table1}
+\begin{tabular}{@{}llllllll@{}}
+\toprule
+\textbf{Tank/Treatment} & \textbf{Apr15} & \textbf{Jun15} & \textbf{Aug15} & \textbf{Oct15} & \textbf{Dec15} & \textbf{Feb15} & \textbf{Apr16} \\ \midrule
+Tank A - DD             & 6              & 6              & 6              & 6              & 6              & 6              & 6              \\
+        Tank B - 66$^{\circ}$S           & 6              & 6              & 6              & 6              & 6              & 6              & 6              \\
+        Tank E - 52$^{\circ}$S           & 6              & 6              & 6              & 6              & 6              & 6              & 6              \\ \bottomrule
+\end{tabular}
+\end{table}
 
 \subsection{Sample processing and preparation of RNA and cDNA}
 
@@ -266,12 +279,30 @@ sPLS-DA (5-fold cross-validation, repeated 100 times) indicated an optimal
 number of components = 1, we considered using a model with two components for
 visualisation purposes. Performance of the final models was assessed by the
 overall error rates for each component and the stability of the selected genes.
-The parameters chosen for the final models can be found in Table II. Sample
+The parameters chosen for the final models can be found in Table \ref{pub3_table2}. Sample
 plots, loading plots and clustered image maps from the \code{R} package
 \code{mixOmics} were used for the visualisation of the sPLS-DA results.
 
 %TODO Table II above
-
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+\begin{table}[]
+\caption{Parameters for the sPLS-DA models for each subset (month) including
+the chosen number of components; the number of selected genes and the overall
+error rate for component 1 (C1), component 2 (C2), and component 3 (C3).}
+\label{pub3_table2}
+\begin{tabular}{@{}llllllll@{}}
+\toprule
+\textbf{subset} & \textbf{components} & \textbf{genes C1} & \textbf{genes C2} & \textbf{genes C3} & \textbf{overall error rate C1 (max.dist)} & \textbf{overall error rate C2 (max.dist)} & \textbf{overall error rate C3 (max.dist)} \\ \midrule
+Apr15           & 1(2)*               & 24                & 24                &                   & 0.75                                      & 0.80                                      &                                           \\
+Jun15           & 1(2)*               & 23                & 5                 &                   & 0.52                                      & 0.57                                      &                                           \\
+Aug15           & 1(2)*               & 5                 & 18                &                   & 0.49                                      & 0.66                                      &                                           \\
+Oct15           & 2                   & 24                & 1                 &                   & 0.64                                      & 0.57                                      &                                           \\
+Dec15           & 2                   & 24                & 1                 &                   & 0.45                                      & 0.37                                      &                                           \\
+Feb16           & 1(2)*               & 8                 & 24                &                   & 0.56                                      & 0.59                                      &                                           \\
+Apr16           & 3                   & 23                & 1                 & 12                & 0.68                                      & 0.69                                      & 0.65                                      \\ \bottomrule
+\end{tabular}
+\end{table}
 
 
 %----------------------------------------------------------------------------------------
@@ -285,10 +316,47 @@ plots, loading plots and clustered image maps from the \code{R} package
 Using \code{RAIN}, significant rhythmic patterns of gene expression were
 detected in Antarctic krill over a period of 12 months in the three treatments
 simulating the low-latitude light regime 52$^{\circ}$S, the high latitude light
-regime 66$^{\circ}$S and constant darkness (DD) (Fig.1, Table III).
+regime 66$^{\circ}$S and constant darkness (DD) (Fig.1, Table \ref{pub3_tab3}).
 
 %TODO above Fig 1 Table III
-
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+\begin{table}[]
+\caption{RAIN results  sorted after the functional process of the studied genes
+including the p-value for each gene and treatment. P-values that indicated
+significant seasonally rhythmic gene expression patterns over a period of 12
+months are displayed in bold.}
+\label{pub3_tab3}
+\begin{tabular}{@{}lllll@{}}
+\toprule
+\textbf{Process}                       & \textbf{Gene}   & \textbf{Treatment 66$^{circ}$S}  & \textbf{Treatment 52$^{circ}$S}  & \textbf{Treatment DD} \\
+                                       &                 & \textbf{p-value}         & \textbf{p-value}         & \textbf{p-value}      \\ \midrule
+Glycolysis                             & \textit{pfk6}   & \textbf{\textless 0.001} & \textbf{\textless 0.001} & 0.389                 \\
+                                       & \textit{gapdh}  & \textbf{\textless 0.001} & 0.095                    & 0.907                 \\
+Citric acid cycle                      & \textit{cs}     & \textbf{\textless 0.001} & \textbf{0.018}           & \textbf{0.039}        \\
+Respiratory chain                      & \textit{atp}    & \textbf{\textless 0.001} & \textbf{0.004}           & \textbf{0.019}        \\
+                                       & \textit{ndufa4} & \textbf{\textless 0.001} & 0.089                    & 0.086                 \\
+Lipid metabolism                       & \textit{acsl}   & 0.649                    & 0.757                    & 0.541                 \\
+                                       & \textit{fasn}   & \textbf{0.004}           & 0.883                    & 0.22                  \\
+                                       & \textit{gal3st} & \textbf{0.007}           & 0.276                    & 0.923                 \\
+Lipid transport                        & \textit{fabp}   & \textbf{\textless 0.001} & \textbf{0.011}           & 0.407                 \\
+                                       & \textit{vtlgl}  & 0.174                    & 0.063                    & 0.652                 \\
+Prostaglandin biosynthesis             & \textit{hpgds}  & \textbf{0.006}           & 0.076                    & 0.806                 \\
+                                       & \textit{cbr1}   & \textbf{0.009}           & \textbf{0.005}           & 0.227                 \\
+Activation of neuropeptides            & \textit{nec1}   & \textbf{\textless 0.001} & 0.537                    & 0.881                 \\
+Biosynthesis of methyl farnesoate      & \textit{famet}  & 0.704                    & 0.414                    & 0.236                 \\
+Circadian clock                        & \textit{tim1}   & \textbf{\textless 0.001} & 0.696                    & 0.668                 \\
+                                       & \textit{clk}    & 0.194                    & 0.588                    & 0.838                 \\
+                                       & \textit{cry2}   & 0.872                    & 0.687                    & 0.814                 \\
+Translation                            & \textit{rps18}  & \textbf{0.031}           & 0.826                    & 0.256                 \\
+                                       & \textit{rps13}  & \textbf{\textless 0.001} & \textbf{0.011}           & 0.113                 \\
+Transcription                          & \textit{rpb1}   & 0.887                    & 0.832                    & 0.833                 \\
+Feeding                                & \textit{trp1}   & \textbf{0.015}           & 0.576                    & 0.631                 \\
+                                       & \textit{astc}   & 0.922                    & \textbf{0.005}           & 0.897                 \\
+Development                            & \textit{span}   & 0.221                    & 0.505                    & 0.78                  \\
+Multifunctional  cell-surface receptor & \textit{lrp1}   & 0.058                    & 0.725                    & 0.576                 \\ \bottomrule
+\end{tabular}
+\end{table}
 
 Under treatment 52$^{\circ}$S, 7 genes had significant seasonal rhythmicity
 with functions in glycolysis (\textit{phosphofructokinase-6} alias
@@ -323,7 +391,7 @@ following genes: \textit{long-chain-fatty-acid-CoA ligase (acsl),
 vitellogenin-like gene (vtlgl), farnesoic acid O-methyltransferase (famet),
 clock (clk), cryptochrome 2 (cry2), RNA polymerase II largest subunit RPB1
 (rpb1), span-like gene (span),} and \textit{low-density lipoprotein
-receptor-related protein 1 (lrp1)} (for function see Table III).
+receptor-related protein 1 (lrp1)} (for function see Table \ref{pub3_tab3}).
 
 \subsection{Analysis of monthly gene expression signatures using sPLS-DA}
 
@@ -343,8 +411,54 @@ were analysed in terms of loadings for each gene per component, which can be
 interpreted as a positive correlation of the gene expression pattern with the
 corresponding treatment of the sample plots (i.e. “up-/downregulated”; Fig.
 2-3), irrespective of positive or negative loading values. The sPLS-DA results
-for each subset are summarized in Tables IV to X including the selected genes
+for each subset are summarized in Tables \ref{pub3_tab4} to X including the selected genes
 for each component of interest, their respective functions, and their loadings.
+
+%%% Table IV
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+\caption{sPLS-DA results for the Apr15 subset (autumn). Genes analysed in the
+        course of this study are sorted according to their respective
+        functional process. Genes selected by sPLS-DA are indicated by loading
+        values. Negative and positive loadings are given for component 1 (C1).
+        Within this monthly subset, gene expression patterns mostly contributed
+        to a separation of treatment 66$^{\circ}$S (negative loadings) and
+        52$^{\circ}$ (positive loadings)}
+\label{pub3_tab4}
+\begin{tabular}{@{}llll@{}}
+\toprule
+\textbf{Process}                      & \textbf{Gene}   & \textbf{Loadings on C1}       &          \\
+                                      &                 & negative                      & positive \\ \midrule
+Glycolysis                            & \textit{pfk6}   & \cellcolor[HTML]{EFEFEF}-0.30 &          \\
+                                      & \textit{gapdh}  & \cellcolor[HTML]{EFEFEF}-0.26 &          \\
+Citric acid cycle                     & \textit{cs}     & \cellcolor[HTML]{EFEFEF}      & 0.25     \\
+Respiratory chain                     & \textit{atp}    & \cellcolor[HTML]{EFEFEF}-0.25 &          \\
+                                      & \textit{ndufa4} & \cellcolor[HTML]{EFEFEF}-0.21 &          \\
+Lipid metabolism                      & \textit{acsl}   & \cellcolor[HTML]{EFEFEF}-0.13 &          \\
+                                      & \textit{fasn}   & \cellcolor[HTML]{EFEFEF}-0.16 &          \\
+                                      & \textit{gal3st} & \cellcolor[HTML]{EFEFEF}-0.09 &          \\
+Lipid transport                       & \textit{fabp}   & \cellcolor[HTML]{EFEFEF}-0.20 &          \\
+                                      & \textit{vtlgl}  & \cellcolor[HTML]{EFEFEF}-0.42 &          \\
+Prostglandin biosynthesis             & \textit{hpgds}  & \cellcolor[HTML]{EFEFEF}      & 0.19     \\
+                                      & \textit{cbr1}   & \cellcolor[HTML]{EFEFEF}      & 0.09     \\
+Activation of neuropeptides           & \textit{nec1}   & \cellcolor[HTML]{EFEFEF}-0.15 &          \\
+Biosynthesis of methyl farnesoate     & \textit{famet}  & \cellcolor[HTML]{EFEFEF}      & 0.09     \\
+Circadian clock                       & \textit{tim1}   & \cellcolor[HTML]{EFEFEF}      & 0.16     \\
+                                      & \textit{clk}    & \cellcolor[HTML]{EFEFEF}      & 0.07     \\
+                                      & \textit{cry2}   & \cellcolor[HTML]{EFEFEF}      & 0.10     \\
+Translation                           & \textit{rps18}  & \cellcolor[HTML]{EFEFEF}      & 0.15     \\
+                                      & \textit{rps13}  & \cellcolor[HTML]{EFEFEF}-0.21 &          \\
+Transcription                         & \textit{rpb1}   & \cellcolor[HTML]{EFEFEF}      & 0.07     \\
+Feeding                               & \textit{trp1}   & \cellcolor[HTML]{EFEFEF}-0.36 &          \\
+                                      & \textit{astc}   & \cellcolor[HTML]{EFEFEF}      & 0.18     \\
+Development                           & \textit{span}   & \cellcolor[HTML]{EFEFEF}-0.10 &          \\
+Multifunctional cell-surface receptor & \textit{lrp1}   & \cellcolor[HTML]{EFEFEF}-0.20 &          \\ \bottomrule
+\end{tabular}
+\end{table}
+
 
 % TODO Tables, Figures
 
@@ -356,7 +470,51 @@ displayed a high variability in gene expression with similarities to krill
 samples of both light treatments (66$^{\circ}$S and 52$^{\circ}$S) and no
 distinct pattern. The detected gene signature of component 1 that contributed
 to the separation of treatment 66$^{\circ}$S and 52$^{\circ}$S can be found in
-Table IV.
+Table \ref{pub3_tab4}.
+
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+\caption{sPLS-DA results for the Jun15 subset (early winter). Genes analysed in
+        the course of this study are sorted according to their respective
+        functional process. Genes selected by sPLS-DA are indicated by loading
+        values. Negative and positive loadings are given for component 1 (C1).
+        Within this monthly subset, gene expression patterns mostly contributed
+        to a separation of the light treatments 52$^{\circ}$S and 66$^\circ$S (negative
+        loadings) and DD (positive loadings).}
+\label{pub3_tab5}
+\begin{tabular}{@{}llll@{}}
+\toprule
+\textbf{Process}                      & \textbf{Gene}   & \textbf{Jun15 Loadings on C1} &                   \\
+                                      &                 & \textbf{negative}             & \textbf{positive} \\ \midrule
+Glycolysis                            & \textit{pfk6}   & \cellcolor[HTML]{C0C0C0}-0.10 &                   \\
+                                      & \textit{gapdh}  & \cellcolor[HTML]{C0C0C0}-0.08 &                   \\
+Citric acid cycle                     & \textit{cs}     & \cellcolor[HTML]{C0C0C0}      &                   \\
+Respiratory chain                     & \textit{atp}    & \cellcolor[HTML]{C0C0C0}      & 0.05              \\
+                                      & \textit{ndufa4} & \cellcolor[HTML]{C0C0C0}-0.35 &                   \\
+Lipid metabolism                      & \textit{acsl}   & \cellcolor[HTML]{C0C0C0}-0.14 &                   \\
+                                      & \textit{fasn}   & \cellcolor[HTML]{C0C0C0}      & 0.15              \\
+                                      & \textit{gal3st} & \cellcolor[HTML]{C0C0C0}-0.18 &                   \\
+Lipid transport                       & \textit{fabp}   & \cellcolor[HTML]{C0C0C0}      & 0.04              \\
+                                      & \textit{vtlgl}  & \cellcolor[HTML]{C0C0C0}      & 0.25              \\
+Prostglandin biosynthesis             & \textit{hpgds}  & \cellcolor[HTML]{C0C0C0}-0.18 &                   \\
+                                      & \textit{cbr1}   & \cellcolor[HTML]{C0C0C0}-0.20 &                   \\
+Activation of neuropeptides           & \textit{nec1}   & \cellcolor[HTML]{C0C0C0}-0.07 &                   \\
+Biosynthesis of methyl farnesoate     & \textit{famet}  & \cellcolor[HTML]{C0C0C0}      & 0.18              \\
+Circadian clock                       & \textit{tim1}   & \cellcolor[HTML]{C0C0C0}-0.39 &                   \\
+                                      & \textit{clk}    & \cellcolor[HTML]{C0C0C0}-0.13 &                   \\
+                                      & \textit{cry2}   & \cellcolor[HTML]{C0C0C0}-0.24 &                   \\
+Translation                           & \textit{rps18}  & \cellcolor[HTML]{C0C0C0}      & 0.07              \\
+                                      & \textit{rps13}  & \cellcolor[HTML]{C0C0C0}-0.30 &                   \\
+Transcription                         & \textit{rpb1}   & \cellcolor[HTML]{C0C0C0}-0.24 &                   \\
+Feeding                               & \textit{trp1}   & \cellcolor[HTML]{C0C0C0}-0.19 &                   \\
+                                      & \textit{astc}   & \cellcolor[HTML]{C0C0C0}-0.31 &                   \\
+Development                           & \textit{span}   & \cellcolor[HTML]{C0C0C0}-0.30 &                   \\
+Multifunctional cell-surface receptor & \textit{lrp1}   & \cellcolor[HTML]{C0C0C0}-0.07 &                   \\ \bottomrule
+\end{tabular}
+\end{table}
 
 For the Jun15 subset (early winter), component 1 mostly contributed to the
 separation of individual krill from the light treatments
@@ -366,7 +524,54 @@ less distinct pattern in individual krill from treatment 66$^{\circ}$S (Fig.
 2b). Component 2 of the Jun15 model did not improve the discrimination between
 the treatments. The gene expression patterns of component 1 that characterized
 the separation between the treatments 52$^{\circ}$S/66$^{\circ}$S and DD are
-summarized in Table V.
+summarized in Table \ref{pub3_tab5}.
+
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+\caption{sPLS-DA results for the Aug15 subset (late winter). Genes analysed in
+        the course of this study are sorted according to their respective
+        functional process. Genes selected by sPLS-DA are indicated by loading
+        values. Negative and positive loadings are given for component 1 (C1)
+        and component (C2). Within this monthly subset, gene expression
+        patterns of C1 mostly contributed to a separation of the light
+        treatments 66$^{\circ}$S and 52$^{\circ}$S (negative loadings) and DD
+        (positive loadings), whereas the gene signature of C2 mostly
+        contributed to the separation of light treatments 52$^{\circ}$S
+        (negative loadings) and 66$^{\circ}$S (positive loadings).}
+\label{pub3_tab6}
+\begin{tabular}{@{}llllll@{}}
+\toprule
+\textbf{Process}                      & \textbf{Gene}   & \textbf{Aug15 Loadings on C1} &                & \textbf{Aug15 Loadings on C2} &          \\
+                                      &                 & negative                      & positive       & negative                      & positive \\ \midrule
+Glycolysis                            & \textit{pfk6}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}-0.06 &          \\
+                                      & \textit{gapdh}  & \cellcolor[HTML]{C0C0C0}      & 0.58           & \cellcolor[HTML]{C0C0C0}      &          \\
+Citric acid cycle                     & \textit{cs}     & \cellcolor[HTML]{C0C0C0}      & 0.51           & \cellcolor[HTML]{C0C0C0}      &          \\
+Respiratory chain                     & \textit{atp}    & \cellcolor[HTML]{C0C0C0}      & 0.62           & \cellcolor[HTML]{C0C0C0}      & 0.05     \\
+                                      & \textit{ndufa4} & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}-0.04 &          \\
+Lipid metabolism                      & \textit{acsl}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{fasn}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{gal3st} & \cellcolor[HTML]{C0C0C0}      & \textless 0.01 & \cellcolor[HTML]{C0C0C0}      & 0.17     \\
+Lipid transport                       & \textit{fabp}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}      & 0.23     \\
+                                      & \textit{vtlgl}  & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}      & 0.03     \\
+Prostglandin biosynthesis             & \textit{hpgds}  & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}      & 0.16     \\
+                                      & \textit{cbr1}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}-0.20 &          \\
+Activation of neuropeptides           & \textit{nec1}   & \cellcolor[HTML]{C0C0C0}      & 0.17           & \cellcolor[HTML]{C0C0C0}-0.31 &          \\
+Biosynthesis of methyl farnesoate     & \textit{famet}  & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}      & 0.23     \\
+Circadian clock                       & \textit{tim1}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{clk}    & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}      & 0.24     \\
+                                      & \textit{cry2}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}-0.07 &          \\
+Translation                           & \textit{rps18}  & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}-0.18 &          \\
+                                      & \textit{rps13}  & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}-0.37 &          \\
+Transcription                         & \textit{rpb1}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}-0.30 &          \\
+Feeding                               & \textit{trp1}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}      & 0.36     \\
+                                      & \textit{astc}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}-0.22 &          \\
+Development                           & \textit{span}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}-0.44 &          \\
+Multifunctional cell-surface receptor & \textit{lrp1}   & \cellcolor[HTML]{C0C0C0}      &                & \cellcolor[HTML]{C0C0C0}      &          \\ \bottomrule
+\end{tabular}
+\end{table}
 
 For the Aug15 subset (late winter), both component 1 and component 2
 contributed to the discrimination of the treatments (Fig. 2c). Component 1
@@ -376,7 +581,48 @@ individual krill from treatment 52$^{\circ}$S. The second component contributed
 to the distinction between krill from latitudinal light treatments
 66$^{\circ}$S and 52$^{\circ}$S, whereas the pattern in krill from treatment DD
 was less distinct. The gene signatures for components 1 and 2 and respective
-functional information for these genes can be found in  Table VI.
+functional information for these genes can be found in  Table \ref{pub3_tab6}.
+
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+\caption{sPLS-DA results for the Oct15 subset (spring). Genes analysed in the course of this study are sorted according to their respective functional process. Genes selected by sPLS-DA are indicated by loading values. Negative and positive loadings are given for component 1 (C1) and component (C2). Within this monthly subset, gene expression patterns of both C1 and C2 mostly contributed to a separation of the light treatments 66$^{\circ}$S and 52$^{\circ}$S (negative loadings) and DD (positive loadings).}
+\label{pub3_tab7}
+\begin{tabular}{@{}llllll@{}}
+\toprule
+Process                               & Gene            & Oct15 Loadings on C1          &                & Oct15 Loadings on C2          &          \\
+                                      &                 & negative                      & positive       & negative                      & positive \\ \midrule
+Glycolysis                            & \textit{pfk6}   & \cellcolor[HTML]{C0C0C0}      & \textless 0.01 & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{gapdh}  & \cellcolor[HTML]{C0C0C0}      & 0.23           & \cellcolor[HTML]{C0C0C0}      &          \\
+Citric acid cycle                     & \textit{cs}     & \cellcolor[HTML]{C0C0C0}      & 0.23           & \cellcolor[HTML]{C0C0C0}      &          \\
+Respiratory chain                     & \textit{atp}    & \cellcolor[HTML]{C0C0C0}      & 0.21           & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{ndufa4} & \cellcolor[HTML]{C0C0C0}      & 0.12           & \cellcolor[HTML]{C0C0C0}      &          \\
+Lipid metabolism                      & \textit{acsl}   & \cellcolor[HTML]{C0C0C0}      & 0.13           & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{fasn}   & \cellcolor[HTML]{C0C0C0}      & 0.27           & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{gal3st} & \cellcolor[HTML]{C0C0C0}      & 0.04           & \cellcolor[HTML]{C0C0C0}      &          \\
+Lipid transport                       & \textit{fabp}   & \cellcolor[HTML]{C0C0C0}-0.05 &                & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{vtlgl}  & \cellcolor[HTML]{C0C0C0}-0.04 &                & \cellcolor[HTML]{C0C0C0}      &          \\
+Prostglandin biosynthesis             & \textit{hpgds}  & \cellcolor[HTML]{C0C0C0}-0.38 &                & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{cbr1}   & \cellcolor[HTML]{C0C0C0}-0.28 &                & \cellcolor[HTML]{C0C0C0}      &          \\
+Activation of neuropeptides           & \textit{nec1}   & \cellcolor[HTML]{C0C0C0}      & 0.21           & \cellcolor[HTML]{C0C0C0}      &          \\
+Biosynthesis of methyl farnesoate     & \textit{famet}  & \cellcolor[HTML]{C0C0C0}      & 0.34           & \cellcolor[HTML]{C0C0C0}      &          \\
+Circadian clock                       & \textit{tim1}   & \cellcolor[HTML]{C0C0C0}      & 0.17           & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{clk}    & \cellcolor[HTML]{C0C0C0}-0.23 &                & \cellcolor[HTML]{C0C0C0}-1.00 &          \\
+                                      & \textit{cry2}   & \cellcolor[HTML]{C0C0C0}-0.08 &                & \cellcolor[HTML]{C0C0C0}      &          \\
+Translation                           & \textit{rps18}  & \cellcolor[HTML]{C0C0C0}      & 0.16           & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{rps13}  & \cellcolor[HTML]{C0C0C0}      & 0.28           & \cellcolor[HTML]{C0C0C0}      &          \\
+Transcription                         & \textit{rpb1}   & \cellcolor[HTML]{C0C0C0}      & 0.11           & \cellcolor[HTML]{C0C0C0}      &          \\
+Feeding                               & \textit{trp1}   & \cellcolor[HTML]{C0C0C0}-0.10 &                & \cellcolor[HTML]{C0C0C0}      &          \\
+                                      & \textit{astc}   & \cellcolor[HTML]{C0C0C0}      & 0.14           & \cellcolor[HTML]{C0C0C0}      &          \\
+Development                           & \textit{span}   & \cellcolor[HTML]{C0C0C0}      & 0.09           & \cellcolor[HTML]{C0C0C0}      &          \\
+Multifunctional cell-surface receptor & \textit{lrp1}   & \cellcolor[HTML]{C0C0C0}      & 0.34           & \cellcolor[HTML]{C0C0C0}      &          \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+
 
 For the Oct15 subset (spring), both component 1 and 2 discriminated between
 individual krill from the latitudinal light treatments
@@ -386,6 +632,10 @@ the pattern was less distinct for individual krill from treatment
 individual krill from treatment 66$^{\circ}$S. The selected gene sets that
 characterized the separation between treatments 66$^{\circ}$S/52$^{\circ}$S and
 DD in 'spring' are shown in Table VII.
+
+
+
+
 
 For the Dec15 subset (early summer), component 1 discriminated between
 individual krill from treatment DD and the light treatments

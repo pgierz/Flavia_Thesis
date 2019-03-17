@@ -272,6 +272,28 @@
     \field{year}{2008}
   \endentry
 
+  \entry{balana_biodiversity_2013}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=BnBF}{%
+         family={Bala\~{n}\'{a}},
+         familyi={B\bibinitperiod\bibinitdelim n\bibinitperiod},
+         given={Blanca\bibnamedelima Figuerola},
+         giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BnBF1}
+    \strng{fullhash}{BnBF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Biodiversity and {Chemical} ecology in {Antarctic} bryozoans}
+    \field{type}{{PhD} {Thesis}}
+    \field{year}{2013}
+  \endentry
+
   \entry{biscontin_opsin_2016}{article}{}
     \name{author}{10}{}{%
       {{hash=BA}{%
